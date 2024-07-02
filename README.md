@@ -12,12 +12,12 @@ The Weather App is a Flutter application that allows users to check weather info
 
 # Screenshots
 
-![Alt text](../weatherapp/assets/screenshots/login.jpg?raw=true "Login")
-![Alt text](../weatherapp/assets/screenshots/signup.jpg.jpg?raw=true "Signup")
-![Alt text](../weatherapp/assets/screenshots/locationpermission.jpg.jpg?raw=true "Permission")
-![Alt text](../weatherapp/assets/screenshots/homepage1.jpg.jpg?raw=true "Homepage")
-![Alt text](../weatherapp/assets/screenshots/homepage.jpg.jpg?raw=true "Weather Info")
-![Alt text](../weatherapp/assets/screenshots/selectlocation.jpg.jpg?raw=true "Select Location")
+![Alt text](../weatherapp/assets/screenshots/login.jpg "Login")
+![Alt text](../weatherapp/assets/screenshots/signup.jpg "Signup")
+![Alt text](../weatherapp/assets/screenshots/locationpermission.jpg "Permission")
+![Alt text](../weatherapp/assets/screenshots/homepage1.jpg "Homepage")
+![Alt text](../weatherapp/assets/screenshots/homepage.jpg "Weather Info")
+![Alt text](../weatherapp/assets/screenshots/selectlocation.jpg "Select Location")
 
 # Getting Started
 
