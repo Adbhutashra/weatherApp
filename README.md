@@ -10,15 +10,6 @@ The Weather App is a Flutter application that allows users to check weather info
 - Persistence of weather data using Hive database
 - Responsive UI with Flutter Material Design components
 
-# Screenshots
-
-![Alt text](../weatherapp/assets/screenshots/login.jpg "Login")
-![Alt text](../weatherapp/assets/screenshots/signup.jpg "Signup")
-![Alt text](../weatherapp/assets/screenshots/locationpermission.jpg "Permission")
-![Alt text](../weatherapp/assets/screenshots/homepage1.jpg "Homepage")
-![Alt text](../weatherapp/assets/screenshots/homepage.jpg "Weather Info")
-![Alt text](../weatherapp/assets/screenshots/selectlocation.jpg "Select Location")
-
 # Getting Started
 
 To get started with this application, follow these steps:
