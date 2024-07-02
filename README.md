@@ -31,7 +31,7 @@ Installation
 
 # Clone the repository:
 
-git clone https://github.com/your/repository.git
+git clone https://github.com/Adbhutashra/weatherApp.git
 cd weather_app
 
 # Install dependencies:
